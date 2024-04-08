@@ -1,5 +1,31 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+/* header */
+
+.menu{
+    color: white;
+    background-color: #2C3E50;
+     
+}
+
+.jumbotron{
+    background-color:#1ABC9C;
+   
+}
+
+.portfolio{
+    height: 10rem;
+}
+
+.about{
+    background-color: #1ABC9C;
+    height: 10rem;
+}
+.contact{
+    height: 10rem;
+}
+.footer{
+    background-color: #3A546D;
+    height: 3rem;
+}
+.copyright{
+ background-color:#2C3E50 ;
 }
