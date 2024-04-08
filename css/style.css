@@ -8,16 +8,14 @@
 
 .jumbotron{
     background-color:#1ABC9C;
+    color: white;
    
 }
 
-.portfolio{
-    height: 10rem;
-}
+
 
 .about{
     background-color: #1ABC9C;
-    height: 10rem;
 }
 .contact{
     height: 10rem;
