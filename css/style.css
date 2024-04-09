@@ -1,28 +1,24 @@
 /* header */
 
-.menu{
+.grey-white{
     color: white;
     background-color: #2C3E50;
      
 }
 
-.jumbotron{
-    background-color:#1ABC9C;
-    color: white;
-   
-}
 
 
-
-.about{
+.white-green{
     background-color: #1ABC9C;
+    color: white;
 }
-.contact{
-    height: 10rem;
-}
-.footer{
+
+
+
+.link{
     background-color: #3A546D;
-    height: 3rem;
+    color: white;
+    
 }
 .copyright{
  background-color:#2C3E50 ;
